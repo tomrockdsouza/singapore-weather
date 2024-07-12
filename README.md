@@ -1,4 +1,4 @@
-#singapore-weather
+# Singapore Weather Data in 130 seconds and 24MB csv
 
 Download and collect whole www.weather.gov.sg in 130 seconds with the power of async python3
 
