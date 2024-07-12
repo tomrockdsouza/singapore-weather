@@ -1,0 +1,4 @@
+duckdb
+bs4
+aiohttp
+aiofiles
