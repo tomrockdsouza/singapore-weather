@@ -5,7 +5,7 @@ Download and collect whole www.weather.gov.sg in 130 seconds with the power of a
 Hiring Challenge for Data Engineer role at ComfortDelGro Singapore
 
 1) Write a python script to download the historical climate data of all locations into a csv file.
-2) 
+
 http://www.weather.gov.sg/climate-historical-daily/
 
 Output as a csv file in below format with all the stations in a file per month for 2022 Sep, 2022 Oct and 2022 Nov.
